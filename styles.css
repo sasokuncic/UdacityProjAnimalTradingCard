@@ -5,7 +5,7 @@
 	border: solid  #ffeb3b;
 	border-width: medium;
 	width: 320px;
-	padding: 0px 10px 10px 10px;
+	padding: 0 10px 10px 10px;
 	box-shadow: 12px 10px 12px 0px #FFC107;
     background-color: #ffeb3b;
 }
@@ -30,7 +30,7 @@
 	font-size: 12px;
 	border: solid #B5651D;
 	border-radius: 5px;
-	padding: 0px 10px 0px 10px;
+	padding: 0 10px 0 10px;
 }
 
 .interesting {
